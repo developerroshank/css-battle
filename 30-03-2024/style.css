@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #f1e3f3;
+    
+}
+
+.css-battle {
+    width: 400px;
+    height: 300px;
+    background-color: #DBBEDF;
+    box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.3);
+}
+
+.design {
+    margin: 0 75px 0 75px;
+}
+
+
+.boxes {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+
+.box-1 {
+    width: 80px;
+    height: 90px;
+    background: #81008F;
+}
+
+.right {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+
+.line {
+    width: 170px;
+    height: 20px;
+    background: #81008F;
+}
+
