@@ -3,4 +3,4 @@
 ## Demo
 
 - [Instalation](#instalation) 
-- [How to Install](#how)
+- [How to Install](#how) 
