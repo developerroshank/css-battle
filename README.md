@@ -1,4 +1,4 @@
-# CSS Battle 
+# CSS Battle
 
 ## Demo
 
