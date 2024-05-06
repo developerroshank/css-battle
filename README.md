@@ -1,6 +1,6 @@
 # CSS Battle
 
-## Demo
+## Demo 
 
 - [Instalation](#instalation)  
 - [How to Install](#how) 
