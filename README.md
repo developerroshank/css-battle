@@ -2,7 +2,7 @@
 
 ## Demo
  
-- [Instalation](#instalation) 
+- [Instalation](#instalation)
 - [How to Install](#how)
 - 
  
